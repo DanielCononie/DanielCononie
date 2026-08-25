@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Daniel Cononie 👋
 
-<!--
-**DanielCononie/DanielCononie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer focused on building full-stack applications,
+backend systems, developer tooling, and AI-powered applications.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Go, TypeScript, JavaScript, Python  
+**Frontend:** React, React Native  
+**Backend:** Node.js, Express, Go  
+**Data:** PostgreSQL, Redis, MongoDB  
+**DevOps:** Docker, Kubernetes, GitHub Actions
+
+## 🚀 Featured Projects
+
+### Athlos
+Mobile-first fitness platform built with React Native and a Go backend,
+using PostgreSQL and Redis for real-time leaderboards and analytics.
+
+### Go Search Engine
+Concurrent web crawler and search engine written in Go with indexing
+and relevance ranking.
+
+### Tech Docs RAG Agent
+AI-powered RAG system for querying technical documentation across
+multiple domains.
+
+## 🔗 Connect
+
+- Portfolio
+- LinkedIn
