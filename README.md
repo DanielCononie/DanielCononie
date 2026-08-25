@@ -27,5 +27,5 @@ multiple domains.
 
 ## 🔗 Connect
 
-- Portfolio
-- LinkedIn
+- Portfolio ----> https://danielcononie.github.io/portfolio/
+- LinkedIn  ----> https://www.linkedin.com/in/daniel-cononie-14a519268/
